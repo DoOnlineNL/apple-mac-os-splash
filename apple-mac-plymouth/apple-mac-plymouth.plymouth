@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=apple-mac-plymouth
+Description=Apple Mac - Plymouth splash theme - Modified
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/apple-mac-plymouth/src/image
+ScriptFile=/usr/share/plymouth/themes/apple-mac-plymouth/bin/apple-mac-plymouth.script

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ubuntu-mcos-splash
+Description=Apple McOS - Plymouth splash theme for ubuntu
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ubuntu-mcos-splash/src/image
+ScriptFile=/usr/share/plymouth/themes/ubuntu-mcos-splash/bin/ubuntu-mcos-splash.script

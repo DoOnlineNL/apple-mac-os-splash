@@ -5,15 +5,13 @@
 # ------------------[ doonline@doonline.nl ]---------------------
 
 How to install (from file manager)
-- Download apple-mac-plymouth.tar.xz file
-- Extract here
-- Open folder apple-mac-plymouth
+- Clone git repo
+- Open folder apple-mac-os-splash
 - Run install.sh
 
 How to install (from terminal)
-- Download apple-mac-plymouth.tar.xz file
-- Extract here
-- Open folder apple-mac-plymouth
+- Clone git repo
+- Open folder apple-mac-os-splash
 - Right click (on an empty area)
 - Click open in terminal
 - Type command bellow
